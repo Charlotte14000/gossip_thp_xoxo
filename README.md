@@ -28,3 +28,5 @@ rails console
 
 * Rebecca Bossé
 * Charlotte Vaudour
+
+![alt text](https://www.google.fr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjWodXA767eAhUIbBoKHQ9tDN4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.shoko.fr%2Fa-quoi-ressemblent-les-acteurs-de-gossip-girl-aujourd-hui-a622175.html&psig=AOvVaw2xa1aZSq4jbDA4JcV11qoC&ust=1541013147219946)
