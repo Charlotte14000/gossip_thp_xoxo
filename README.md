@@ -24,7 +24,7 @@ rails console
 * La page de contact.
 * Une page de bienvenue, qui accueille l'utilisateur en fonction du nom passé dans l'URL.
 
-## Team Caen
+## 🌈Team Caen🌈
 
 * Rebecca Bossé
 * Charlotte Vaudour
